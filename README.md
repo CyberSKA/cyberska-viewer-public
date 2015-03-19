@@ -1,6 +1,6 @@
-# [CyberSKA](https://www.cyberska.org) Viewer - wikis and issues
+# CyberSKA Viewer - wikis and issues
 
-The purpose of this repository is to collect wiki and issues for the viewer used on the [CyberSKA](https://www.cyberska.org) portal.
+The purpose of this repository is to collect wiki and issues for the viewer used on the [CyberSKA](http://www.cyberska.org) portal.
 
 Quick links:
 
